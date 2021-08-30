@@ -25,8 +25,8 @@ var callback = () => api.sendMessage(
   \n😎 Quê quán: Nghệ An 
   \n👫 Gu: Giọng nói :<
   \n🌸 Tính cách: Là một con người ít nói và nhạt :))
-  \n👨‍💻 Sở thích: lập trình web , code dạo 😸
-Facebook : https://www.facebook.com/ttm130`,
+  \n👨‍💻 Sở thích: lập trình web , code dạo 😸    
+       Facebook : https://www.facebook.com/ttm130`,
     attachment: fs.createReadStream(__dirname + "/cache/1.png")}, event.threadID, () => 
     fs.unlinkSync(__dirname + "/cache/1.png"));  
       return request(
