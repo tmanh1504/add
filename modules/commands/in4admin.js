@@ -23,7 +23,7 @@ var callback = () => api.sendMessage(
   \n💫 Chiều cao cân nặng: 1m65 45kg
   \n💘 Mối quan hệ: Độc thân
   \n😎 Quê quán: Nghệ An 
-  \n👫 Gu: Giọng nói :<
+  \n👫 Gu: Thích mình là được :<
   \n🌸 Tính cách: Là một con người ít nói và nhạt :))
   \n👨‍💻 Sở thích: lập trình web , code dạo 😸    
        Facebook : https://www.facebook.com/ttm130`,
